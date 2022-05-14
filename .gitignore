@@ -1,0 +1,6 @@
+.vscode
+.idea
+
+*.exe
+*.exe~
+song.txt
